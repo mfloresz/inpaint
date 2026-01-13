@@ -1,0 +1,16 @@
+{
+  "$schema": "https://inlang.com/schema/inlang-message-format",
+  "drop_zone": "Haz clic o arrastra aquí",
+  "try_it_images": "Pruébalo:",
+  "feedback": "Acerca de mí",
+  "start_new": "Nuevo proyecto",
+  "bruch_size": "Tamaño del pincel",
+  "original": "Original",
+  "upscale": "Aumento 4x",
+  "download": "Descargar",
+  "undo": "Deshacer",
+  "inpaint_model_download_message": "Descargando modelo de 30MB, por favor espera...",
+  "upscaleing_model_download_message": "Descargando modelo de 70MB, por favor espera...",
+  "back_to": "Regresar aquí",
+  "processing": "Procesando, por favor espera..."
+}
